@@ -1,0 +1,12 @@
+:root{
+    --main-color :#222831;
+    --scend-color :#00ADB5;
+    --blaklight-color :#393E46;
+    --light-color :#EEEEEE;
+}
+
+body{
+    background-color: var(--main-color);
+    height: 100vh;
+    margin: 0;
+}
